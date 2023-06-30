@@ -4,7 +4,7 @@ Submitted by: **Anthony Campos**
 
 **IOS101 Codepath Prework App ** is an app that contains a UI button to change the  the color of the background to a random color. 
 
-Time spent: **4** hours spent in total
+Time spent: **4** hours spent in total 
 
 ## Required Features
 
