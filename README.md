@@ -51,7 +51,7 @@ Connects programmers from around the world no matter their level of experience. 
 
 Describe any challenges encountered while building the app.
 
-First attempt was unsuccessful because XCode was not letting me add multiple labels to the main storyboard file. To fix the issue, I created a new project and got XCode working properly. When implementing the bonus feature (a button to change the color of the text to a random color) I struggled for a bit but eventually managed to get the button to function as intended. It was a learning process, but it helped me better understand UI and connections and become familiar with the Xcode IDE. 
+First attempt was unsuccessful because XCode was not letting me add multiple labels to the main storyboard file. To fix the issue, I created a new project and got Xcode working properly. When implementing the bonus feature, I struggled for a bit but eventually managed to get the button to function as intended. Overall, it was a learning process which helped me better understand UI and connections and become familiar with the Xcode IDE. 
 
 ## License
 
