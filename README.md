@@ -4,7 +4,7 @@ Submitted by: **Anthony Campos**
 
 **IOS101 Codepath Prework App** is a simple app created using Xcode that displays 3 labels, a button that sets the background to a random color, and, a bonus feature, a button that changes the text color to a random one. 
 
-Time spent: **5** hours spent in total 
+Time spent: **4** hours spent in total 
 
 ## Required Features
 
