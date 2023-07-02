@@ -17,13 +17,14 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/idFBcO4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/fDyab7Y' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with https://getkap.co/
 
 ## App Brainstorming (Step 4)
 
 YouTube
+- https://imgur.com/a/idFBcO4.gif
 - Recommendation feed
 - Ability to upload videos for free 
 - Subscription feature  
